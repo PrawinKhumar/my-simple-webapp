@@ -1,0 +1,5 @@
+echo "<!DOCTYPE html>
+<html>
+<head><title>My Cloud App</title></head>
+<body><h1>Hello Cloud World! ☁️</h1></body>
+</html>" > index.html
